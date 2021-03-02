@@ -1,0 +1,4 @@
+<Insert absolute path you want your logs to go to>
+<Insert path to chromedriver.exe>
+<Insert email>
+<Insert password>
